@@ -1,1 +1,2 @@
 My first message for first commit
+Go home. Second commit
