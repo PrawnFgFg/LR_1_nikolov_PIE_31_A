@@ -2,3 +2,4 @@ My first message for first commit
 Go home. Second commit
 Back to school. Third commit
 It is fourth commit in second branch
+Message for fifth commit in second branch
